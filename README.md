@@ -4,7 +4,7 @@
 
 ## ⚗️ Setup 
 
-Install python then 
+Install python from [here](https://www.python.org/downloads/) then 
 
 ```console
 pip install pillow
